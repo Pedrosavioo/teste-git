@@ -14,6 +14,6 @@ Tecnologias para Frontend:
 1. HTML
 2. CSS
 3. JavaScript
-5. React.js
-12. Tailwind CSS
-19. Figma
+4. React.js
+5. Tailwind CSS
+6. Figma
