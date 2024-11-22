@@ -1,1 +1,19 @@
-sdasdsasa
+Tecnologias para Backend:
+
+1. Node.js
+2. Python
+3. javascript
+4. PHP
+5. SQL Databases
+
+
+---
+
+Tecnologias para Frontend:
+
+1. HTML
+2. CSS
+3. JavaScript
+5. React.js
+12. Tailwind CSS
+19. Figma
